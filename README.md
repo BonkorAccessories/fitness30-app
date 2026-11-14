@@ -17,7 +17,7 @@
   <tr>
     <td align="center"><img src="screenshots/4-minuterie.png" alt="Séance en cours : démonstration de l'exercice, minuterie ronde, boutons pause, précédent et suivant" width="240"><br><b>La minuterie</b></td>
     <td align="center"><img src="screenshots/5-progression.png" alt="Écran Progression : jours d'affilée, nombre de séances, minutes et calendrier du mois" width="240"><br><b>La progression</b></td>
-    <td></td>
+    <td align="center"><img src="screenshots/6-poids.png" alt="Suivi du poids : saisie du poids du jour, dernier poids, évolution et courbe" width="240"><br><b>Le poids</b></td>
   </tr>
 </table>
 
@@ -30,8 +30,8 @@
 | Onglet | Description |
 |---|---|
 | 🔥 **Défis** | Les 3 défis (Abdos, Fessiers, Corps entier), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
-| 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec tes jours d'entraînement. |
-| ⚙️ **Réglages** | Langue, durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, sauvegarde et restauration de tes données, numéro de version tout en bas. |
+| 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec tes jours d'entraînement, suivi du poids avec sa courbe. |
+| ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, sauvegarde et restauration de tes données, numéro de version tout en bas. |
 
 ---
 
@@ -51,6 +51,8 @@
 - ▶️ **Reprendre une séance coupée** (appel, appli fermée) là où tu t'étais arrêté
 - 📅 **Rappel quotidien** ajouté à l'agenda de ton téléphone, à l'heure de ton choix
 - 🗓️ **Calendrier et série** de jours d'affilée pour garder la motivation
+- ⚖️ **Suivi du poids** : note ton poids quand tu veux et regarde ta courbe évoluer
+- 🌗 **Thème clair ou sombre** au choix, ou automatique comme ton téléphone
 - 💾 **Sauvegarde et restauration** des données dans un fichier
 - ✈️ **Fonctionne hors connexion** une fois installée
 
@@ -60,6 +62,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.3** | 14 nov. 2026 | Suivi du poids avec courbe, choix du thème clair ou sombre |
 | 1.2.1 | 14 nov. 2026 | Démo de la planche corrigée (avant-bras posés vers l'avant) |
 | **1.2** | 14 nov. 2026 | Nouvelles démos animées pour les 22 exercices |
 | **1.1** | 14 nov. 2026 | 9 langues (la voix parle aussi la langue choisie), numéro de version dans Réglages |
