@@ -35,14 +35,14 @@
 | Onglet | Description |
 |---|---|
 | 🔥 **Défis** | **Mon programme** en haut (plusieurs défis dans un même planning en couleurs), puis les 5 défis seuls (Perte de poids, Musculation, Abdos, Fessiers, Corps entier), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
-| 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec un point de couleur par défi, suivi du poids avec sa courbe. |
+| 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec un point de couleur par défi, suivi du poids avec sa courbe et ton IMC. |
 | ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, ton objectif (modifiable à tout moment), sauvegarde et restauration de tes données, numéro de version tout en bas. |
 
 ---
 
 ## ✨ Fonctionnalités principales
 
-- 🌍 **9 langues** : français, anglais, allemand, espagnol, portugais, italien, néerlandais, polonais, turc (celle du téléphone par défaut, modifiable dans Réglages)
+- 🌍 **9 langues** : français, anglais, allemand, espagnol, portugais, italien, néerlandais, polonais, turc (choisie au premier lancement, modifiable dans Réglages)
 - 🏋️ **5 défis de 30 jours** : Perte de poids, Musculation, Abdos, Fessiers, Corps entier, chacun en niveau débutant, intermédiaire ou avancé
 - 🗓️ **Mon programme** : combine 2 ou 3 défis ; l'appli construit un planning de 30 jours d'après ton objectif et donne le plus de jours au défi qui compte le plus pour toi. Chaque défi a sa couleur et son initiale sur le calendrier
 - 🎯 **Objectif modifiable** à tout moment : le défi prioritaire et la suite du planning s'adaptent, les jours déjà faits restent
@@ -58,7 +58,7 @@
 - ▶️ **Reprendre une séance coupée** (appel, appli fermée) là où tu t'étais arrêté
 - 📅 **Rappel quotidien** ajouté à l'agenda de ton téléphone, à l'heure de ton choix
 - 🗓️ **Calendrier et série** de jours d'affilée pour garder la motivation
-- ⚖️ **Suivi du poids** : note ton poids quand tu veux et regarde ta courbe évoluer
+- ⚖️ **Suivi du poids et IMC** : note ton poids quand tu veux, regarde ta courbe évoluer et ton IMC se mettre à jour
 - 🌗 **Thème clair ou sombre** au choix, ou automatique comme ton téléphone
 - 💾 **Sauvegarde et restauration** des données dans un fichier
 - ✈️ **Fonctionne hors connexion** une fois installée
@@ -69,6 +69,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.5** | 14 nov. 2026 | Choix de la langue au premier lancement, questionnaire « Et toi ? » (âge, sexe, taille, poids), IMC dans Progression |
 | **1.4.1** | 14 nov. 2026 | Corrections : « Arrêter le programme » revient bien aux défis, meilleure lecture par les lecteurs d'écran |
 | **1.4** | 14 nov. 2026 | Mon programme (plusieurs défis dans un planning selon ton objectif, code couleur), défis Perte de poids et Musculation, 5 nouveaux exercices, objectif modifiable |
 | **1.3** | 14 nov. 2026 | Suivi du poids avec courbe, choix du thème clair ou sombre |
