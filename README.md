@@ -69,6 +69,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.4.1** | 14 nov. 2026 | Corrections : « Arrêter le programme » revient bien aux défis, meilleure lecture par les lecteurs d'écran |
 | **1.4** | 14 nov. 2026 | Mon programme (plusieurs défis dans un planning selon ton objectif, code couleur), défis Perte de poids et Musculation, 5 nouveaux exercices, objectif modifiable |
 | **1.3** | 14 nov. 2026 | Suivi du poids avec courbe, choix du thème clair ou sombre |
 | 1.2.1 | 14 nov. 2026 | Démo de la planche corrigée (avant-bras posés vers l'avant) |
