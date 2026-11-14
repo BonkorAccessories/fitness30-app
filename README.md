@@ -1,6 +1,6 @@
 # 🔥 Fitness30 — Défis sportifs de 30 jours
 
-**Fitness30** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
+**Fitness30** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
 
 🔗 **Accéder à l'app** : [https://fitness30.vercel.app](https://fitness30.vercel.app)
 
@@ -31,12 +31,13 @@
 |---|---|
 | 🔥 **Défis** | Les 3 défis (Abdos, Fessiers, Corps entier), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
 | 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec tes jours d'entraînement. |
-| ⚙️ **Réglages** | Durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, sauvegarde et restauration de tes données. |
+| ⚙️ **Réglages** | Langue, durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, sauvegarde et restauration de tes données, numéro de version tout en bas. |
 
 ---
 
 ## ✨ Fonctionnalités principales
 
+- 🌍 **9 langues** : français, anglais, allemand, espagnol, portugais, italien, néerlandais, polonais, turc (celle du téléphone par défaut, modifiable dans Réglages)
 - 🏋️ **3 défis de 30 jours** : Abdos, Fessiers, Corps entier, chacun en niveau débutant, intermédiaire ou avancé
 - 📈 **Difficulté qui monte en douceur** jour après jour, avec un jour de repos tous les 4 jours
 - 🔄 **Changer de niveau sans perdre ses jours** : tu gardes ta progression
@@ -59,7 +60,10 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.1** | 14 nov. 2026 | 9 langues (la voix parle aussi la langue choisie), numéro de version dans Réglages |
 | **1.0** | 14 nov. 2026 | Première version : 3 défis en 3 niveaux, séance guidée, étirements, variantes, ressenti, rappel quotidien, sauvegarde |
+
+Le numéro de version s'affiche tout en bas de l'onglet **Réglages**.
 
 ---
 
