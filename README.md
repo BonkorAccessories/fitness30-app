@@ -60,6 +60,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| 1.2.1 | 14 nov. 2026 | Démo de la planche corrigée (avant-bras posés vers l'avant) |
 | **1.2** | 14 nov. 2026 | Nouvelles démos animées pour les 22 exercices |
 | **1.1** | 14 nov. 2026 | 9 langues (la voix parle aussi la langue choisie), numéro de version dans Réglages |
 | **1.0** | 14 nov. 2026 | Première version : 3 défis en 3 niveaux, séance guidée, étirements, variantes, ressenti, rappel quotidien, sauvegarde |
