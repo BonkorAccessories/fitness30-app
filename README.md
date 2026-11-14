@@ -69,6 +69,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.5.1** | 14 nov. 2026 | Bloc « Mes infos » dans Réglages pour changer âge, sexe et taille |
 | **1.5** | 14 nov. 2026 | Choix de la langue au premier lancement, questionnaire « Et toi ? » (âge, sexe, taille, poids), IMC dans Progression |
 | **1.4.1** | 14 nov. 2026 | Corrections : « Arrêter le programme » revient bien aux défis, meilleure lecture par les lecteurs d'écran |
 | **1.4** | 14 nov. 2026 | Mon programme (plusieurs défis dans un planning selon ton objectif, code couleur), défis Perte de poids et Musculation, 5 nouveaux exercices, objectif modifiable |
