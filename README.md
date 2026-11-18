@@ -2,7 +2,7 @@
 
 **Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
 
-🔗 **Accéder à l'app** : [https://fitness30.vercel.app](https://fitness30.vercel.app)
+🔗 **Accéder à l'app** : [https://renascor.vercel.app](https://renascor.vercel.app)
 
 ---
 
@@ -69,6 +69,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.6.1** | 18 nov. 2026 | Nouvelle adresse : renascor.vercel.app (l’ancienne transfère tes données automatiquement) |
 | **1.6** | 18 nov. 2026 | L’appli s’appelle maintenant **Renascor** |
 | **1.5.1** | 14 nov. 2026 | Bloc « Mes infos » dans Réglages pour changer âge, sexe et taille |
 | **1.5** | 14 nov. 2026 | Choix de la langue au premier lancement, questionnaire « Et toi ? » (âge, sexe, taille, poids), IMC dans Progression |
@@ -88,7 +89,7 @@ Le numéro de version s'affiche tout en bas de l'onglet **Réglages**.
 
 ### 🍏 iPhone (Safari)
 
-1. Ouvre [https://fitness30.vercel.app](https://fitness30.vercel.app) dans **Safari**
+1. Ouvre [https://renascor.vercel.app](https://renascor.vercel.app) dans **Safari**
 2. Appuie sur l'icône **Partage** (le carré avec une flèche vers le haut) 🔗
 3. Sélectionne **Sur l'écran d'accueil** ➕
 4. Confirme en appuyant sur **Ajouter**
@@ -97,7 +98,7 @@ L'application apparaît alors comme une app native sur ton écran d'accueil. �
 
 ### 🤖 Android (Chrome)
 
-1. Ouvre [https://fitness30.vercel.app](https://fitness30.vercel.app) dans **Chrome**
+1. Ouvre [https://renascor.vercel.app](https://renascor.vercel.app) dans **Chrome**
 2. Appuie sur le menu **⋮** (les 3 points en haut à droite)
 3. Sélectionne **Ajouter à l'écran d'accueil** (ou **Installer l'application**)
 4. Confirme l'ajout
