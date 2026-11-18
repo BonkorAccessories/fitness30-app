@@ -69,7 +69,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
-| **1.6.1** | 18 nov. 2026 | Nouvelle adresse : renascor.vercel.app (l’ancienne transfère tes données automatiquement) |
+| **1.6.2** | 18 nov. 2026 | Nouvelle adresse : renascor.vercel.app (l’ancienne adresse est fermée) |
 | **1.6** | 18 nov. 2026 | L’appli s’appelle maintenant **Renascor** |
 | **1.5.1** | 14 nov. 2026 | Bloc « Mes infos » dans Réglages pour changer âge, sexe et taille |
 | **1.5** | 14 nov. 2026 | Choix de la langue au premier lancement, questionnaire « Et toi ? » (âge, sexe, taille, poids), IMC dans Progression |
