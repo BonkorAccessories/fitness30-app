@@ -1,6 +1,6 @@
 # 🔥 Renascor — Défis sportifs de 30 jours
 
-**Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
+**Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel ou avec le tien (haltères, corde à sauter, tapis de course, vélo d'appartement). Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
 
 🔗 **Accéder à l'app** : [https://renascor.vercel.app](https://renascor.vercel.app)
 
@@ -34,17 +34,19 @@
 
 | Onglet | Description |
 |---|---|
-| 🔥 **Défis** | **Mon programme** en haut (plusieurs défis dans un même planning en couleurs), tes séances perso, puis les 8 défis seuls (Perte de poids, Musculation, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
+| 🔥 **Défis** | **Mon programme** en haut (plusieurs défis dans un même planning en couleurs), tes séances perso, puis les 9 défis seuls (Perte de poids, Musculation, Prise de masse, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
 | 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec un point de couleur par défi, suivi du poids avec sa courbe et ton IMC. |
-| ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, ton objectif (modifiable à tout moment), sauvegarde et restauration de tes données, numéro de version tout en bas. |
+| ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, ton objectif (modifiable à tout moment), ton matériel, sauvegarde et restauration de tes données, numéro de version tout en bas. |
 
 ---
 
 ## ✨ Fonctionnalités principales
 
 - 🌍 **9 langues** : français, anglais, allemand, espagnol, portugais, italien, néerlandais, polonais, turc (choisie au premier lancement, modifiable dans Réglages)
-- 🏋️ **8 défis de 30 jours** : Perte de poids, Musculation, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos, chacun en niveau débutant, intermédiaire ou avancé
+- 🏋️ **9 défis de 30 jours** : Perte de poids, Musculation, Prise de masse, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos, chacun en niveau débutant, intermédiaire ou avancé
 - 🗓️ **Mon programme** : combine 2 ou 3 défis ; l'appli construit un planning de 30 jours d'après ton objectif et donne le plus de jours au défi qui compte le plus pour toi. Chaque défi a sa couleur et son initiale sur le calendrier
+- 📆 **De 2 à 6 jours de sport par semaine** au choix : l'appli te dit si c'est peu, idéal ou beaucoup pour ton objectif, et pourquoi
+- 🏠 **Ton matériel compte** : avec des haltères, une corde à sauter, un tapis de course ou un vélo d'appartement, les exercices s'adaptent (et tu peux toujours revenir à la version sans matériel)
 - ✍️ **Mes séances** : crée ta propre séance en choisissant tes exercices, ton ordre et ton niveau
 - 🎯 **Objectif modifiable** à tout moment : le défi prioritaire et la suite du planning s'adaptent, les jours déjà faits restent
 - 📈 **Difficulté qui monte en douceur** jour après jour, avec un jour de repos tous les 4 jours
@@ -71,6 +73,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.8** | 18 nov. 2026 | Objectif Prise de masse et son défi, question sur ton matériel (6 exercices avec haltères, corde, tapis ou vélo), 2 à 6 jours de sport par semaine avec un conseil selon ton objectif |
 | 1.7.1 | 18 nov. 2026 | Rappel : retour à l'agenda à la place de la notification (rien n'est envoyé sur internet), rappel chaque jour sans fin, avec le lien de l'app |
 | **1.7** | 18 nov. 2026 | Mes séances (crée ta propre séance), défis Jambes, Bras et Dos, vraie notification de rappel, image de réussite à partager |
 | **1.6.2** | 18 nov. 2026 | Nouvelle adresse : renascor.vercel.app (l’ancienne adresse est fermée) |
