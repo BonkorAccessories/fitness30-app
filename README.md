@@ -1,6 +1,6 @@
-# 🔥 Fitness30 — Défis sportifs de 30 jours
+# 🔥 Renascor — Défis sportifs de 30 jours
 
-**Fitness30** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
+**Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
 
 🔗 **Accéder à l'app** : [https://fitness30.vercel.app](https://fitness30.vercel.app)
 
@@ -69,6 +69,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.6** | 18 nov. 2026 | L’appli s’appelle maintenant **Renascor** |
 | **1.5.1** | 14 nov. 2026 | Bloc « Mes infos » dans Réglages pour changer âge, sexe et taille |
 | **1.5** | 14 nov. 2026 | Choix de la langue au premier lancement, questionnaire « Et toi ? » (âge, sexe, taille, poids), IMC dans Progression |
 | **1.4.1** | 14 nov. 2026 | Corrections : « Arrêter le programme » revient bien aux défis, meilleure lecture par les lecteurs d'écran |
