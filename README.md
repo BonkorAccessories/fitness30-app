@@ -1,6 +1,6 @@
 # 🔥 Renascor — Défis sportifs de 30 jours
 
-**Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
+**Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone (seul le rappel par notification, si tu l'actives, garde ton heure sur le serveur).
 
 🔗 **Accéder à l'app** : [https://renascor.vercel.app](https://renascor.vercel.app)
 
@@ -34,17 +34,18 @@
 
 | Onglet | Description |
 |---|---|
-| 🔥 **Défis** | **Mon programme** en haut (plusieurs défis dans un même planning en couleurs), puis les 5 défis seuls (Perte de poids, Musculation, Abdos, Fessiers, Corps entier), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
+| 🔥 **Défis** | **Mon programme** en haut (plusieurs défis dans un même planning en couleurs), tes séances perso, puis les 8 défis seuls (Perte de poids, Musculation, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
 | 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec un point de couleur par défi, suivi du poids avec sa courbe et ton IMC. |
-| ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, ton objectif (modifiable à tout moment), sauvegarde et restauration de tes données, numéro de version tout en bas. |
+| ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien par notification ou dans ton agenda, ton objectif (modifiable à tout moment), sauvegarde et restauration de tes données, numéro de version tout en bas. |
 
 ---
 
 ## ✨ Fonctionnalités principales
 
 - 🌍 **9 langues** : français, anglais, allemand, espagnol, portugais, italien, néerlandais, polonais, turc (choisie au premier lancement, modifiable dans Réglages)
-- 🏋️ **5 défis de 30 jours** : Perte de poids, Musculation, Abdos, Fessiers, Corps entier, chacun en niveau débutant, intermédiaire ou avancé
+- 🏋️ **8 défis de 30 jours** : Perte de poids, Musculation, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos, chacun en niveau débutant, intermédiaire ou avancé
 - 🗓️ **Mon programme** : combine 2 ou 3 défis ; l'appli construit un planning de 30 jours d'après ton objectif et donne le plus de jours au défi qui compte le plus pour toi. Chaque défi a sa couleur et son initiale sur le calendrier
+- ✍️ **Mes séances** : crée ta propre séance en choisissant tes exercices, ton ordre et ton niveau
 - 🎯 **Objectif modifiable** à tout moment : le défi prioritaire et la suite du planning s'adaptent, les jours déjà faits restent
 - 📈 **Difficulté qui monte en douceur** jour après jour, avec un jour de repos tous les 4 jours
 - 🔄 **Changer de niveau sans perdre ses jours** : tu gardes ta progression
@@ -56,7 +57,8 @@
 - 🔊 **Voix et bips** pour suivre la séance sans regarder l'écran (activables dans Réglages)
 - 💡 **L'écran reste allumé** pendant la séance
 - ▶️ **Reprendre une séance coupée** (appel, appli fermée) là où tu t'étais arrêté
-- 📅 **Rappel quotidien** ajouté à l'agenda de ton téléphone, à l'heure de ton choix
+- 🔔 **Rappel quotidien** par notification à l'heure de ton choix (appli installée sur l'écran d'accueil), ou dans l'agenda de ton téléphone
+- 📸 **Partage ta réussite** : une image « Jour 12/30 » avec tes stats, prête pour WhatsApp, Instagram ou TikTok
 - 🗓️ **Calendrier et série** de jours d'affilée pour garder la motivation
 - ⚖️ **Suivi du poids et IMC** : note ton poids quand tu veux, regarde ta courbe évoluer et ton IMC se mettre à jour
 - 🌗 **Thème clair ou sombre** au choix, ou automatique comme ton téléphone
@@ -69,6 +71,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.7** | 18 nov. 2026 | Mes séances (crée ta propre séance), défis Jambes, Bras et Dos, vraie notification de rappel, image de réussite à partager |
 | **1.6.2** | 18 nov. 2026 | Nouvelle adresse : renascor.vercel.app (l’ancienne adresse est fermée) |
 | **1.6** | 18 nov. 2026 | L’appli s’appelle maintenant **Renascor** |
 | **1.5.1** | 14 nov. 2026 | Bloc « Mes infos » dans Réglages pour changer âge, sexe et taille |
@@ -106,5 +109,7 @@ L'application apparaît alors comme une app native sur ton écran d'accueil. �
 L'application s'installe comme une app classique, avec son icône dédiée. 🎉
 
 🔊 Pour entendre la voix et les bips, monte le son du téléphone et, sur iPhone, désactive le mode silencieux.
+
+🔔 Le rappel par notification s'active dans **Réglages** une fois l'app installée. Sur iPhone, il faut iOS 16.4 ou plus récent. Ton heure de rappel et une adresse de notification anonyme sont alors gardées sur le serveur ; elles sont effacées dès que tu coupes la notification.
 
 💾 Pense à faire une sauvegarde de temps en temps (onglet **Réglages**, en bas) : tes données sont perdues si tu désinstalles l'app.
