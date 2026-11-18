@@ -65,6 +65,7 @@
 - ⚖️ **Suivi du poids et IMC** : note ton poids quand tu veux, regarde ta courbe évoluer et ton IMC se mettre à jour
 - 🌗 **Thème clair ou sombre** au choix, ou automatique comme ton téléphone
 - 💾 **Sauvegarde et restauration** des données dans un fichier
+- 🎬 **Écran de démarrage animé** aux couleurs du logo, à chaque ouverture (un toucher pour le passer)
 - ✈️ **Fonctionne hors connexion** une fois installée
 
 ---
@@ -73,6 +74,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| **1.9** | 18 nov. 2026 | Écran de démarrage animé : le coureur du logo arrive en courant, les lettres de RENASCOR apparaissent une par une (on peut le passer d'un toucher) |
 | 1.8.1 | 18 nov. 2026 | Nouveau logo de l'app (icône sur l'écran d'accueil et dans le navigateur) |
 | **1.8** | 18 nov. 2026 | Objectif Prise de masse et son défi, question sur ton matériel (6 exercices avec haltères, corde, tapis ou vélo), 2 à 6 jours de sport par semaine avec un conseil selon ton objectif |
 | 1.7.1 | 18 nov. 2026 | Rappel : retour à l'agenda à la place de la notification (rien n'est envoyé sur internet), rappel chaque jour sans fin, avec le lien de l'app |
