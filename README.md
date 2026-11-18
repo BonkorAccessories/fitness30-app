@@ -1,6 +1,6 @@
 # 🔥 Renascor — Défis sportifs de 30 jours
 
-**Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone (seul le rappel par notification, si tu l'actives, garde ton heure sur le serveur).
+**Renascor** est une application web progressive (PWA) pour se mettre au sport chez soi, sans matériel. Choisis un défi de 30 jours ou combine-en plusieurs dans un programme fait pour ton objectif, suis la séance du jour guidée par la minuterie, et regarde tes jours se cocher un à un. Quelques minutes par jour suffisent. Disponible en 9 langues. Sans compte, sans publicité, sans abonnement : tes données restent sur ton téléphone.
 
 🔗 **Accéder à l'app** : [https://renascor.vercel.app](https://renascor.vercel.app)
 
@@ -36,7 +36,7 @@
 |---|---|
 | 🔥 **Défis** | **Mon programme** en haut (plusieurs défis dans un même planning en couleurs), tes séances perso, puis les 8 défis seuls (Perte de poids, Musculation, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
 | 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec un point de couleur par défi, suivi du poids avec sa courbe et ton IMC. |
-| ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien par notification ou dans ton agenda, ton objectif (modifiable à tout moment), sauvegarde et restauration de tes données, numéro de version tout en bas. |
+| ⚙️ **Réglages** | Langue, thème (auto, clair ou sombre), durée du repos, voix et bips pendant la séance, rappel quotidien dans ton agenda, ton objectif (modifiable à tout moment), sauvegarde et restauration de tes données, numéro de version tout en bas. |
 
 ---
 
@@ -57,7 +57,7 @@
 - 🔊 **Voix et bips** pour suivre la séance sans regarder l'écran (activables dans Réglages)
 - 💡 **L'écran reste allumé** pendant la séance
 - ▶️ **Reprendre une séance coupée** (appel, appli fermée) là où tu t'étais arrêté
-- 🔔 **Rappel quotidien** par notification à l'heure de ton choix (appli installée sur l'écran d'accueil), ou dans l'agenda de ton téléphone
+- 📅 **Rappel quotidien** ajouté à l'agenda de ton téléphone, à l'heure de ton choix, avec le lien pour ouvrir l'app
 - 📸 **Partage ta réussite** : une image « Jour 12/30 » avec tes stats, prête pour WhatsApp, Instagram ou TikTok
 - 🗓️ **Calendrier et série** de jours d'affilée pour garder la motivation
 - ⚖️ **Suivi du poids et IMC** : note ton poids quand tu veux, regarde ta courbe évoluer et ton IMC se mettre à jour
@@ -71,6 +71,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| 1.7.1 | 18 nov. 2026 | Rappel : retour à l'agenda à la place de la notification (rien n'est envoyé sur internet), rappel chaque jour sans fin, avec le lien de l'app |
 | **1.7** | 18 nov. 2026 | Mes séances (crée ta propre séance), défis Jambes, Bras et Dos, vraie notification de rappel, image de réussite à partager |
 | **1.6.2** | 18 nov. 2026 | Nouvelle adresse : renascor.vercel.app (l’ancienne adresse est fermée) |
 | **1.6** | 18 nov. 2026 | L’appli s’appelle maintenant **Renascor** |
@@ -109,7 +110,5 @@ L'application apparaît alors comme une app native sur ton écran d'accueil. �
 L'application s'installe comme une app classique, avec son icône dédiée. 🎉
 
 🔊 Pour entendre la voix et les bips, monte le son du téléphone et, sur iPhone, désactive le mode silencieux.
-
-🔔 Le rappel par notification s'active dans **Réglages** une fois l'app installée. Sur iPhone, il faut iOS 16.4 ou plus récent. Ton heure de rappel et une adresse de notification anonyme sont alors gardées sur le serveur ; elles sont effacées dès que tu coupes la notification.
 
 💾 Pense à faire une sauvegarde de temps en temps (onglet **Réglages**, en bas) : tes données sont perdues si tu désinstalles l'app.
